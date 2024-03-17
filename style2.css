@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.topo{
+    max-width: 1024px;
+    position: relative;
+    right: 8px;
+    margin-bottom: 100px;
+}
+.topo-back{
+    background-color: rgb(42, 42, 223);
+}
+.paragrafo-topo{
+    color: white;
+}
+.icone{
+    width: 100px;
+    margin-top: 20px;
+}
+.texto-topo{
+    position: absolute;
+    top: 55px;
+    left: 110px;
+}
+.link, .link1, .link2, .link3{
+    position: relative;
+    left: 500px;
+    bottom: 40px;
+    padding: 5px;
+    text-decoration: none;
+    font-size: 24px;
+    color: white;
+}
+div{
+    margin: 0 auto;
+}
+table{
+    
+    text-align: center;
+    margin: auto;
+    border-radius: 4px;
+}
+table td{
+    padding: 20px;
+}
+table th{
+    padding: 20px;
+}
+.marcacao-azul{
+    border-radius: 100px;
+    background-color: blue;
+    width: 20px;
+    height: 20px;
+}
+tr td{
+    background-color: whitesmoke;
+}
+th p{
+    color: rgb(187, 183, 183);
+}
+.cor-cinza{
+    background-color: gray;
+}
+.rodape{
+    position: relative;
+    left: 0;
+    right: 0;
+    text-align: center;
+    padding: 50px;
+    background-color: blue;
+    margin-top: 100px;
+}
+.rodape img{
+    width: 100px;
+    position: relative;
+    right: 50px;
+}
+.rodape-final{
+    padding: 20px;
+    text-align: center;
+    font-size: 24px;
+    background-color: whitesmoke;
+}
+.p1{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 90px;
+    left: 160px;
+}
+.p1 h1{
+    margin-right: 20px;
+}
+.rodape p{
+    color: white;
+}
+span{
+    color: blue
+}
+
+

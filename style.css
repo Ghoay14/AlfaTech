@@ -1,0 +1,220 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.topo{
+    max-width: 1024px;
+    position: relative;
+}
+.paragrafo-topo{
+    color: blueviolet;
+}
+.icone{
+    width: 100px;
+    margin-top: 20px;
+}
+.texto-topo{
+    position: absolute;
+    top: 55px;
+    left: 110px;
+}
+.link, .link1, .link2, .link3{
+    position: relative;
+    left: 500px;
+    bottom: 40px;
+    padding: 5px;
+    text-decoration: none;
+    font-size: 24px;
+    color: black;
+}
+.segunda-div{
+    background-color: aqua;
+}
+.primeiro-seg-corpo{
+    margin-bottom: 10px;
+}
+.seg-corpo{             /*texto da primeira imagem */
+    max-width: 400px;
+    position: relative;
+    top: 150px;
+    right: 270px;
+}
+.seg-corpo p, .seg-corpo h2{
+    line-height: 30px;
+    padding: 10px;
+    font-size: 22px;
+    color: white;
+}
+.seg-div-img{                           /*banner da primeira pág*/
+    position: relative;
+    width: 400px;
+    left: 1000px ;
+    bottom: 150px;
+    margin-top: 0;
+}
+.terceira-div{
+    background-color: gray;
+    padding: 30px;
+    position: relative;
+}
+.icone-foguete{
+    width: 10px;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+.link-foguete{
+    padding: 15px;
+    background-color: black;
+    color: white;
+    position: absolute;
+    right: 420px;
+    top: 45px;
+    text-decoration: none;
+    font-size: 18px;
+}
+.terceira-div p, .terceira-div h2{
+    position: relative;
+    text-align: center;
+    right: 230px;
+    color: white;
+}
+.terceira-div p{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.quarta-div{
+    margin-top: 130px;
+    padding-top: 20px; 
+    text-align: center;
+}
+.display{
+    display: inline-block;
+    margin-top: 120px;
+    margin-bottom: 120px;
+    padding: 10px;
+    max-width: 400px;
+}
+h2 span{
+    color: blue;
+}
+.quarta-div h2{
+    font-size: 30px;
+}
+.display h4{
+    margin-bottom: 20px;
+}
+.center{
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 30px;
+    padding: 5px;
+}
+table{
+    text-align: center;
+    margin: auto;
+    border-radius: 4px;
+    box-shadow: 0px 2px 40px 15px rgba(47,134,214,1);
+    padding: 30px;
+    background-color: white;
+    margin-bottom: 70px;
+}
+table th h3{
+    margin-top: 20px;
+}
+table th img{
+    width: 100px;
+}
+table th p{
+    color: gray;
+    padding: 3px;
+    margin-bottom: 5px;
+}
+table tr td{
+    padding: 5px;
+}
+.escuro{
+    background-color: beige;
+}
+.claro{
+    background-color: aliceblue;
+}
+.quinto-paragrafo{
+    position: relative;
+    background-color: blue;
+    padding: 70px;
+}
+.quinto-paragrafo h3{
+    position: absolute;
+    top: 30px;
+    font-size: 30px;
+    left: 450px;
+    text-align: center;
+}
+.link-foguete2{
+    padding: 15px;
+    background-color: black;
+    color: white;
+    position: absolute;
+    right: 420px;
+    top: 60px;
+    text-decoration: none;
+    font-size: 18px;
+}
+.icone-foguete2{
+    width: 10px;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+.rodape{
+    text-align: center;
+    max-width: 1024px;
+}
+.rodape-img{
+    margin-top: 50px;
+    position: relative;
+    right: 40px;
+}
+.rodape-img h1{
+    position: absolute;
+    left: 565px;
+    top: 10px;
+}
+.rodape-img p{
+    position: absolute;
+    left: 565px;
+    top: 40px;
+    margin-top: 5px;
+    color: blueviolet;
+}
+.rodape-img img{
+    width: 100px;
+}
+.rodape-info{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+.rodape-info p{
+    font-size: 22px;
+    padding: 2px;
+    line-height: 30px;
+}
+.rodape-final{
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+    background-color: gray;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.rodape-final span{
+    color: blue;
+}
+div{
+    margin: 0 auto;
+}
+img{
+    width: 200px;
+}
+
